@@ -294,9 +294,9 @@ header .intro-text .intro-lead-in {
 header .intro-text .name {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 15px;
+    font-size: 20px;
     font-style: italic;
-    line-height: 15px;
+    line-height: 20px;
 }
 
 header .intro-text .intro-heading {
