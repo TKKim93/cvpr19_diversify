@@ -291,6 +291,14 @@ header .intro-text .intro-lead-in {
     line-height: 22px;
 }
 
+header .intro-text .name {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 15px;
+    font-style: italic;
+    line-height: 15px;
+}
+
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
